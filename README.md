@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Nazir 👋
 
-<!--
-**elmuntech/elmuntech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm building **AgentCP** — an open-source AI agent governance 
+and audit control plane for companies navigating EU AI Act, 
+NIST AI RMF, and ISO 42001 compliance.
 
-Here are some ideas to get you started:
+### What I'm working on
+- 🔭 AgentCP: agent registry, immutable audit logs, 
+  real-time guardrails for AI agents
+- 🌍 Based in Tashkent, building for the European market
+- 📬 Reach me: hello@elmuntech.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Why this matters
+Companies are deploying AI agents fast — but nobody knows 
+what agents are running, what they can access, or what 
+they did. AgentCP fixes that.
